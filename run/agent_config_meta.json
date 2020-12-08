@@ -1,0 +1,276 @@
+{
+  "keys": "D:\\fogProject\\egg-project\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "D:\\fogProject\\egg-project\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "D:\\fogProject\\egg-project\\config\\config.default.js"
+    },
+    "root": "D:\\fogProject\\egg-project\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\fogProject\\egg-project\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\fogProject\\egg-project\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\fogProject\\egg-project\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\fogProject\\egg-project\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\fogProject\\egg-project\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\fogProject\\egg-project\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\fogProject\\egg-project\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\fogProject\\egg-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\fogProject\\egg-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\fogProject\\egg-project\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\fogProject\\egg-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\fogProject\\egg-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\fogProject\\egg-project\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\fogProject\\egg-project\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\fogProject\\egg-project\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\fogProject\\egg-project\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\fogProject\\egg-project\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\fogProject\\egg-project\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\fogProject\\egg-project\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\fogProject\\egg-project\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\fogProject\\egg-project\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\fogProject\\egg-project\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\fogProject\\egg-project\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\fogProject\\egg-project\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\fogProject\\egg-project\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\fogProject\\egg-project\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\fogProject\\egg-project\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\fogProject\\egg-project\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "D:\\fogProject\\egg-project\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "D:\\fogProject\\egg-project\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "D:\\fogProject\\egg-project\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "D:\\fogProject\\egg-project\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "D:\\fogProject\\egg-project\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "mplayer": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "node-cmd": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "play": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\fogProject\\egg-project\\node_modules\\egg\\config\\config.default.js"
+}

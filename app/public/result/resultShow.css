@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+}
+.target_img {
+  width: 300px;
+  margin-left: 100px;
+}
+.tips {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.detail {
+  color: #aaa;
+  font-size: 16px;
+}

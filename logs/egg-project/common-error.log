@@ -1,0 +1,1711 @@
+2020-11-13 00:00:02,389 ERROR 16400 [Job#16051968022123103431822681003865] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:02,390 ERROR 16400 [Job#16051968022123103431822681003865] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:00:05,790 ERROR 16400 [Job#16051968052133103461835950003866] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:05,790 ERROR 16400 [Job#16051968052133103461835950003866] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 577ms
+2020-11-13 00:00:08,770 ERROR 16400 [Job#16051968082143103491843778003867] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:08,772 ERROR 16400 [Job#16051968082143103491843778003867] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 558ms
+2020-11-13 00:00:11,422 ERROR 16400 [Job#16051968112153103521853430003868] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:11,423 ERROR 16400 [Job#16051968112153103521853430003868] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 208ms
+2020-11-13 00:00:14,441 ERROR 16400 [Job#16051968142143103551850620003869] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:14,442 ERROR 16400 [Job#16051968142143103551850620003869] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 227ms
+2020-11-13 00:00:18,010 ERROR 16400 [Job#16051968172163103581863574003870] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:18,012 ERROR 16400 [Job#16051968172163103581863574003870] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 796ms
+2020-11-13 00:00:20,432 ERROR 16400 [Job#16051968202173103611871350993871] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:20,432 ERROR 16400 [Job#16051968202173103611871350993871] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 215ms
+2020-11-13 00:00:23,457 ERROR 16400 [Job#16051968232173103641881053003872] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:23,459 ERROR 16400 [Job#16051968232173103641881053003872] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 241ms
+2020-11-13 00:00:26,421 ERROR 16400 [Job#16051968262183103671883836003873] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:26,421 ERROR 16400 [Job#16051968262183103671883836003873] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 203ms
+2020-11-13 00:00:29,921 ERROR 16400 [Job#16051968292183103701883832003874] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:29,921 ERROR 16400 [Job#16051968292183103701883832003874] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 703ms
+2020-11-13 00:00:32,407 ERROR 16400 [Job#16051968322193103731891975003875] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:32,407 ERROR 16400 [Job#16051968322193103731891975003875] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 188ms
+2020-11-13 00:00:35,472 ERROR 16400 [Job#16051968352203103761904823003876] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:35,472 ERROR 16400 [Job#16051968352203103761904823003876] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 252ms
+2020-11-13 00:00:38,420 ERROR 16400 [Job#16051968382213103791918168003877] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:38,421 ERROR 16400 [Job#16051968382213103791918168003877] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 200ms
+2020-11-13 00:00:41,522 ERROR 16400 [Job#16051968412213103821914125003878] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:41,522 ERROR 16400 [Job#16051968412213103821914125003878] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 301ms
+2020-11-13 00:00:44,587 ERROR 16400 [Job#16051968442213103851920960003879] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:44,589 ERROR 16400 [Job#16051968442213103851920960003879] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 367ms
+2020-11-13 00:00:47,365 ERROR 16400 [Job#16051968472223103881923802993880] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:47,366 ERROR 16400 [Job#16051968472223103881923802993880] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 144ms
+2020-11-13 00:00:50,523 ERROR 16400 [Job#16051968502223103911923955993881] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:50,524 ERROR 16400 [Job#16051968502223103911923955993881] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 302ms
+2020-11-13 00:00:53,431 ERROR 16400 [Job#16051968532223103941921641003882] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:53,433 ERROR 16400 [Job#16051968532223103941921641003882] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 211ms
+2020-11-13 00:00:56,560 ERROR 16400 [Job#16051968562233103971935482003883] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:56,561 ERROR 16400 [Job#16051968562233103971935482003883] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 338ms
+2020-11-13 00:00:59,490 ERROR 16400 [Job#16051968592243104001943871003884] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:00:59,491 ERROR 16400 [Job#16051968592243104001943871003884] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 267ms
+2020-11-13 00:01:02,555 ERROR 16400 [Job#16051968622243104031943062993885] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:02,555 ERROR 16400 [Job#16051968622243104031943062993885] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 331ms
+2020-11-13 00:01:05,388 ERROR 16400 [Job#16051968652243104061949804003886] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:05,388 ERROR 16400 [Job#16051968652243104061949804003886] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 164ms
+2020-11-13 00:01:08,509 ERROR 16400 [Job#16051968682263104091962998003887] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:08,509 ERROR 16400 [Job#16051968682263104091962998003887] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 283ms
+2020-11-13 00:01:11,431 ERROR 16400 [Job#16051968712273104121976991003888] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:11,431 ERROR 16400 [Job#16051968712273104121976991003888] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 204ms
+2020-11-13 00:01:14,570 ERROR 16400 [Job#16051968742273104151974271003889] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:14,570 ERROR 16400 [Job#16051968742273104151974271003889] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 343ms
+2020-11-13 00:01:17,382 ERROR 16400 [Job#16051968772273104181973074003890] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:17,383 ERROR 16400 [Job#16051968772273104181973074003890] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:01:20,411 ERROR 16400 [Job#16051968802283104211986474993891] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:20,412 ERROR 16400 [Job#16051968802283104211986474993891] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 184ms
+2020-11-13 00:01:23,490 ERROR 16400 [Job#16051968832283104241990090003892] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:23,492 ERROR 16400 [Job#16051968832283104241990090003892] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 264ms
+2020-11-13 00:01:26,663 ERROR 16400 [Job#16051968862293104271999924003893] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:26,664 ERROR 16400 [Job#16051968862293104271999924003893] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 435ms
+2020-11-13 00:01:29,481 ERROR 16400 [Job#16051968892303104302009855003894] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:29,481 ERROR 16400 [Job#16051968892303104302009855003894] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 250ms
+2020-11-13 00:01:32,527 ERROR 16400 [Job#16051968922323104332026651003895] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:32,530 ERROR 16400 [Job#16051968922323104332026651003895] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 298ms
+2020-11-13 00:01:35,594 ERROR 16400 [Job#16051968952323104362027630003896] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:35,595 ERROR 16400 [Job#16051968952323104362027630003896] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 363ms
+2020-11-13 00:01:38,404 ERROR 16400 [Job#16051968982323104392027398003897] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:38,404 ERROR 16400 [Job#16051968982323104392027398003897] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 172ms
+2020-11-13 00:01:41,620 ERROR 16400 [Job#16051969012333104422036140003898] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:41,620 ERROR 16400 [Job#16051969012333104422036140003898] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 387ms
+2020-11-13 00:01:44,434 ERROR 16400 [Job#16051969042343104452045683003899] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:44,435 ERROR 16400 [Job#16051969042343104452045683003899] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 201ms
+2020-11-13 00:01:47,442 ERROR 16400 [Job#16051969072353104482059797993900] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:47,443 ERROR 16400 [Job#16051969072353104482059797993900] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 208ms
+2020-11-13 00:01:50,392 ERROR 16400 [Job#16051969102373104512077256003901] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:50,393 ERROR 16400 [Job#16051969102373104512077256003901] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:01:53,557 ERROR 16400 [Job#16051969132383104542089746003902] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:53,558 ERROR 16400 [Job#16051969132383104542089746003902] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 320ms
+2020-11-13 00:01:57,100 ERROR 16400 [Job#16051969162393104572098852993903] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:57,101 ERROR 16400 [Job#16051969162393104572098852993903] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 862ms
+2020-11-13 00:01:59,392 ERROR 16400 [Job#16051969192403104602109013993904] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:01:59,392 ERROR 16400 [Job#16051969192403104602109013993904] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 152ms
+2020-11-13 00:02:02,845 ERROR 16400 [Job#16051969222413104632118496993905] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:02,845 ERROR 16400 [Job#16051969222413104632118496993905] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 604ms
+2020-11-13 00:02:05,500 ERROR 16400 [Job#16051969252423104662128571003906] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:05,501 ERROR 16400 [Job#16051969252423104662128571003906] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 259ms
+2020-11-13 00:02:08,520 ERROR 16400 [Job#16051969282433104692136141003907] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:08,520 ERROR 16400 [Job#16051969282433104692136141003907] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 277ms
+2020-11-13 00:02:11,691 ERROR 16400 [Job#16051969312443104722145301003908] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:11,691 ERROR 16400 [Job#16051969312443104722145301003908] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 447ms
+2020-11-13 00:02:14,554 ERROR 16400 [Job#16051969342443104752146092993909] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:14,555 ERROR 16400 [Job#16051969342443104752146092993909] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 311ms
+2020-11-13 00:02:17,549 ERROR 16400 [Job#16051969372453104782156078003910] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:17,550 ERROR 16400 [Job#16051969372453104782156078003910] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 305ms
+2020-11-13 00:02:20,516 ERROR 16400 [Job#16051969402463104812165861003911] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:20,517 ERROR 16400 [Job#16051969402463104812165861003911] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 271ms
+2020-11-13 00:02:23,829 ERROR 16400 [Job#16051969432473104842175638003912] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:23,829 ERROR 16400 [Job#16051969432473104842175638003912] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 582ms
+2020-11-13 00:02:26,721 ERROR 16400 [Job#16051969462473104872178415003913] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:26,722 ERROR 16400 [Job#16051969462473104872178415003913] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 475ms
+2020-11-13 00:02:29,467 ERROR 16400 [Job#16051969492473104902180248003914] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:29,467 ERROR 16400 [Job#16051969492473104902180248003914] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 220ms
+2020-11-13 00:02:32,404 ERROR 16400 [Job#16051969522493104932199456993915] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:32,404 ERROR 16400 [Job#16051969522493104932199456993915] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 155ms
+2020-11-13 00:02:35,488 ERROR 16400 [Job#16051969552503104962205029993916] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:35,489 ERROR 16400 [Job#16051969552503104962205029993916] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 239ms
+2020-11-13 00:02:38,399 ERROR 16400 [Job#16051969582503104992205242003917] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:38,400 ERROR 16400 [Job#16051969582503104992205242003917] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 150ms
+2020-11-13 00:02:41,531 ERROR 16400 [Job#16051969612513105022212975993918] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:41,532 ERROR 16400 [Job#16051969612513105022212975993918] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 281ms
+2020-11-13 00:02:44,390 ERROR 16400 [Job#16051969642513105052213781003919] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:44,390 ERROR 16400 [Job#16051969642513105052213781003919] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 139ms
+2020-11-13 00:02:47,425 ERROR 16400 [Job#16051969672513105082218356003920] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:47,426 ERROR 16400 [Job#16051969672513105082218356003920] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 175ms
+2020-11-13 00:02:50,586 ERROR 16400 [Job#16051969702513105112218842003921] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:50,586 ERROR 16400 [Job#16051969702513105112218842003921] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 335ms
+2020-11-13 00:02:53,434 ERROR 16400 [Job#16051969732513105142216460003922] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:53,434 ERROR 16400 [Job#16051969732513105142216460003922] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 183ms
+2020-11-13 00:02:56,406 ERROR 16400 [Job#16051969762523105172227037003923] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:56,407 ERROR 16400 [Job#16051969762523105172227037003923] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 155ms
+2020-11-13 00:02:59,435 ERROR 16400 [Job#16051969792533105202238947003924] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:02:59,435 ERROR 16400 [Job#16051969792533105202238947003924] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 182ms
+2020-11-13 00:03:02,748 ERROR 16400 [Job#16051969822543105232246089993925] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:02,749 ERROR 16400 [Job#16051969822543105232246089993925] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 495ms
+2020-11-13 00:03:06,238 ERROR 16400 [Job#16051969852553105262255975003926] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:06,240 ERROR 16400 [Job#16051969852553105262255975003926] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 985ms
+2020-11-13 00:03:08,946 ERROR 16400 [Job#16051969882553105292258487003927] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:08,947 ERROR 16400 [Job#16051969882553105292258487003927] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 692ms
+2020-11-13 00:03:11,623 ERROR 16400 [Job#16051969912563105322266633003928] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:11,624 ERROR 16400 [Job#16051969912563105322266633003928] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 368ms
+2020-11-13 00:03:14,435 ERROR 16400 [Job#16051969942573105352278834003929] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:14,435 ERROR 16400 [Job#16051969942573105352278834003929] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:03:17,620 ERROR 16400 [Job#16051969972573105382278848003930] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:17,621 ERROR 16400 [Job#16051969972573105382278848003930] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 363ms
+2020-11-13 00:03:20,492 ERROR 16400 [Job#16051970002593105412296448003931] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:20,494 ERROR 16400 [Job#16051970002593105412296448003931] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 235ms
+2020-11-13 00:03:23,478 ERROR 16400 [Job#16051970032603105442308520003932] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:23,479 ERROR 16400 [Job#16051970032603105442308520003932] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 219ms
+2020-11-13 00:03:26,517 ERROR 16400 [Job#16051970062613105472315559003933] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:26,517 ERROR 16400 [Job#16051970062613105472315559003933] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 256ms
+2020-11-13 00:03:29,423 ERROR 16400 [Job#16051970092623105502329100993934] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:29,424 ERROR 16400 [Job#16051970092623105502329100993934] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 162ms
+2020-11-13 00:03:32,512 ERROR 16400 [Job#16051970122643105532344151003935] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:32,513 ERROR 16400 [Job#16051970122643105532344151003935] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 249ms
+2020-11-13 00:03:35,429 ERROR 16400 [Job#16051970152653105562351274993936] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:35,430 ERROR 16400 [Job#16051970152653105562351274993936] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 165ms
+2020-11-13 00:03:38,438 ERROR 16400 [Job#16051970182653105592357219003937] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:38,438 ERROR 16400 [Job#16051970182653105592357219003937] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 173ms
+2020-11-13 00:03:41,481 ERROR 16400 [Job#16051970212653105622353261993938] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:41,483 ERROR 16400 [Job#16051970212653105622353261993938] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 218ms
+2020-11-13 00:03:44,463 ERROR 16400 [Job#16051970242663105652363657993939] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:44,463 ERROR 16400 [Job#16051970242663105652363657993939] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 197ms
+2020-11-13 00:03:47,438 ERROR 16400 [Job#16051970272673105682376959993940] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:47,438 ERROR 16400 [Job#16051970272673105682376959993940] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 171ms
+2020-11-13 00:03:51,109 ERROR 16400 [Job#16051970302683105712383698003941] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:51,109 ERROR 16400 [Job#16051970302683105712383698003941] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 841ms
+2020-11-13 00:03:53,430 ERROR 16400 [Job#16051970332693105742393860003942] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:53,430 ERROR 16400 [Job#16051970332693105742393860003942] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 161ms
+2020-11-13 00:03:56,419 ERROR 16400 [Job#16051970362703105772403634993943] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:56,421 ERROR 16400 [Job#16051970362703105772403634993943] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 151ms
+2020-11-13 00:03:59,574 ERROR 16400 [Job#16051970392713105802413741003944] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:03:59,575 ERROR 16400 [Job#16051970392713105802413741003944] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 304ms
+2020-11-13 00:04:02,494 ERROR 16400 [Job#16051970422713105832413402003945] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:02,495 ERROR 16400 [Job#16051970422713105832413402003945] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 224ms
+2020-11-13 00:04:05,595 ERROR 16400 [Job#16051970452723105862423870003946] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:05,596 ERROR 16400 [Job#16051970452723105862423870003946] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 324ms
+2020-11-13 00:04:08,535 ERROR 16400 [Job#16051970482733105892433649003947] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:08,536 ERROR 16400 [Job#16051970482733105892433649003947] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 263ms
+2020-11-13 00:04:11,412 ERROR 16400 [Job#16051970512743105922441280003948] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:11,413 ERROR 16400 [Job#16051970512743105922441280003948] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 139ms
+2020-11-13 00:04:14,521 ERROR 16400 [Job#16051970542743105952444930003949] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:14,522 ERROR 16400 [Job#16051970542743105952444930003949] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 248ms
+2020-11-13 00:04:17,848 ERROR 16400 [Job#16051970572753105982455761993950] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:17,849 ERROR 16400 [Job#16051970572753105982455761993950] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 574ms
+2020-11-13 00:04:20,887 ERROR 16400 [Job#16051970602763106012466025003951] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:20,888 ERROR 16400 [Job#16051970602763106012466025003951] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 612ms
+2020-11-13 00:04:23,468 ERROR 16400 [Job#16051970632763106042468420003952] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:23,468 ERROR 16400 [Job#16051970632763106042468420003952] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 192ms
+2020-11-13 00:04:33,793 ERROR 16400 [Job#16051970732973106142676762993953] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:33,798 ERROR 16400 [Job#16051970732973106142676762993953] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 499ms
+2020-11-13 00:04:36,530 ERROR 16400 [Job#16051970762983106172683443003954] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:36,531 ERROR 16400 [Job#16051970762983106172683443003954] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 233ms
+2020-11-13 00:04:39,616 ERROR 16400 [Job#16051970792983106202689816003955] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:39,617 ERROR 16400 [Job#16051970792983106202689816003955] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 319ms
+2020-11-13 00:04:42,426 ERROR 16400 [Job#16051970822993106232700997993956] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:42,426 ERROR 16400 [Job#16051970822993106232700997993956] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 126ms
+2020-11-13 00:04:45,680 ERROR 16400 [Job#16051970853003106262709622003957] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:45,681 ERROR 16400 [Job#16051970853003106262709622003957] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 381ms
+2020-11-13 00:04:48,553 ERROR 16400 [Job#16051970883013106292719182003958] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:48,554 ERROR 16400 [Job#16051970883013106292719182003958] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 252ms
+2020-11-13 00:04:51,905 ERROR 16400 [Job#16051970913033106322733606003959] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:51,906 ERROR 16400 [Job#16051970913033106322733606003959] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 603ms
+2020-11-13 00:04:55,432 ERROR 16400 [Job#16051970943033106352740581003960] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:55,434 ERROR 16400 [Job#16051970943033106352740581003960] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 1131ms
+2020-11-13 00:04:57,470 ERROR 16400 [Job#16051970973043106382743758003961] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:04:57,471 ERROR 16400 [Job#16051970973043106382743758003961] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:05:00,653 ERROR 16400 [Job#16051971003043106412747896003962] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:00,654 ERROR 16400 [Job#16051971003043106412747896003962] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 350ms
+2020-11-13 00:05:03,642 ERROR 16400 [Job#16051971033043106442744924003963] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:03,642 ERROR 16400 [Job#16051971033043106442744924003963] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 338ms
+2020-11-13 00:05:06,557 ERROR 16400 [Job#16051971063043106472742086003964] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:06,558 ERROR 16400 [Job#16051971063043106472742086003964] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 254ms
+2020-11-13 00:05:09,585 ERROR 16400 [Job#16051971093043106502746342003965] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:09,585 ERROR 16400 [Job#16051971093043106502746342003965] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 281ms
+2020-11-13 00:05:12,520 ERROR 16400 [Job#16051971123043106532741518993966] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:12,520 ERROR 16400 [Job#16051971123043106532741518993966] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 216ms
+2020-11-13 00:05:15,578 ERROR 16400 [Job#16051971153043106562742393003967] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:15,578 ERROR 16400 [Job#16051971153043106562742393003967] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 274ms
+2020-11-13 00:05:18,565 ERROR 16400 [Job#16051971183043106592750045003968] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:18,566 ERROR 16400 [Job#16051971183043106592750045003968] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 262ms
+2020-11-13 00:05:21,589 ERROR 16400 [Job#16051971213053106622760490003969] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:21,589 ERROR 16400 [Job#16051971213053106622760490003969] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 284ms
+2020-11-13 00:05:24,460 ERROR 16400 [Job#16051971243073106652777785003970] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:24,461 ERROR 16400 [Job#16051971243073106652777785003970] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 154ms
+2020-11-13 00:05:27,670 ERROR 16400 [Job#16051971273073106682777352003971] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:27,670 ERROR 16400 [Job#16051971273073106682777352003971] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 363ms
+2020-11-13 00:05:30,519 ERROR 16400 [Job#16051971303073106712780765003972] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:30,519 ERROR 16400 [Job#16051971303073106712780765003972] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 212ms
+2020-11-13 00:05:33,569 ERROR 16400 [Job#16051971333083106742787629003973] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:33,570 ERROR 16400 [Job#16051971333083106742787629003973] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 262ms
+2020-11-13 00:05:36,517 ERROR 16400 [Job#16051971363083106772789863003974] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:36,517 ERROR 16400 [Job#16051971363083106772789863003974] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 209ms
+2020-11-13 00:05:39,642 ERROR 16400 [Job#16051971393093106802800538003975] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:39,642 ERROR 16400 [Job#16051971393093106802800538003975] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 333ms
+2020-11-13 00:05:42,481 ERROR 16400 [Job#16051971423113106832810967003976] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:42,482 ERROR 16400 [Job#16051971423113106832810967003976] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 172ms
+2020-11-13 00:05:45,450 ERROR 16400 [Job#16051971453123106862821347003977] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:45,451 ERROR 16400 [Job#16051971453123106862821347003977] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 140ms
+2020-11-13 00:05:48,480 ERROR 16400 [Job#16051971483133106892833514003978] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:48,480 ERROR 16400 [Job#16051971483133106892833514003978] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:05:51,470 ERROR 16400 [Job#16051971513143106922843887003979] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:51,471 ERROR 16400 [Job#16051971513143106922843887003979] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 157ms
+2020-11-13 00:05:54,658 ERROR 16400 [Job#16051971543143106952847107003980] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:54,659 ERROR 16400 [Job#16051971543143106952847107003980] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 345ms
+2020-11-13 00:05:57,492 ERROR 16400 [Job#16051971573143106982843416993981] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:05:57,492 ERROR 16400 [Job#16051971573143106982843416993981] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:06:00,576 ERROR 16400 [Job#16051971603153107012851209993982] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:00,576 ERROR 16400 [Job#16051971603153107012851209993982] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 261ms
+2020-11-13 00:06:03,866 ERROR 16400 [Job#16051971633163107042860710003983] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:03,867 ERROR 16400 [Job#16051971633163107042860710003983] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 551ms
+2020-11-13 00:06:06,483 ERROR 16400 [Job#16051971663163107072866328003984] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:06,484 ERROR 16400 [Job#16051971663163107072866328003984] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 168ms
+2020-11-13 00:06:09,496 ERROR 16400 [Job#16051971693173107102875681003985] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:09,497 ERROR 16400 [Job#16051971693173107102875681003985] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 180ms
+2020-11-13 00:06:12,490 ERROR 16400 [Job#16051971723173107132874960003986] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:12,492 ERROR 16400 [Job#16051971723173107132874960003986] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 175ms
+2020-11-13 00:06:16,031 ERROR 16400 [Job#16051971753173107162878493993987] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:16,031 ERROR 16400 [Job#16051971753173107162878493993987] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 714ms
+2020-11-13 00:06:18,609 ERROR 16400 [Job#16051971783183107192886864003988] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:18,609 ERROR 16400 [Job#16051971783183107192886864003988] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 291ms
+2020-11-13 00:06:21,489 ERROR 16400 [Job#16051971813193107222896088003989] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:21,491 ERROR 16400 [Job#16051971813193107222896088003989] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 172ms
+2020-11-13 00:06:24,456 ERROR 16400 [Job#16051971843193107252899048003990] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:24,456 ERROR 16400 [Job#16051971843193107252899048003990] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 137ms
+2020-11-13 00:06:27,525 ERROR 16400 [Job#16051971873213107282912652003991] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:27,525 ERROR 16400 [Job#16051971873213107282912652003991] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 204ms
+2020-11-13 00:06:30,538 ERROR 16400 [Job#16051971903213107312916427003992] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:30,538 ERROR 16400 [Job#16051971903213107312916427003992] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 217ms
+2020-11-13 00:06:33,488 ERROR 16400 [Job#16051971933213107342920338003993] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:33,489 ERROR 16400 [Job#16051971933213107342920338003993] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:06:36,606 ERROR 16400 [Job#16051971963223107372930346003994] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:36,607 ERROR 16400 [Job#16051971963223107372930346003994] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 284ms
+2020-11-13 00:06:39,495 ERROR 16400 [Job#16051971993243107402941065003995] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:39,495 ERROR 16400 [Job#16051971993243107402941065003995] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 171ms
+2020-11-13 00:06:42,593 ERROR 16400 [Job#16051972023243107432949313003996] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:42,593 ERROR 16400 [Job#16051972023243107432949313003996] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 269ms
+2020-11-13 00:06:45,541 ERROR 16400 [Job#16051972053253107462959558003997] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:45,541 ERROR 16400 [Job#16051972053253107462959558003997] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 216ms
+2020-11-13 00:06:48,612 ERROR 16400 [Job#16051972083273107492980389003998] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:48,612 ERROR 16400 [Job#16051972083273107492980389003998] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 285ms
+2020-11-13 00:06:51,506 ERROR 16400 [Job#16051972113283107522990848003999] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:51,507 ERROR 16400 [Job#16051972113283107522990848003999] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:06:54,846 ERROR 16400 [Job#16051972143293107553000391004000] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:54,847 ERROR 16400 [Job#16051972143293107553000391004000] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 518ms
+2020-11-13 00:06:57,488 ERROR 16400 [Job#16051972173303107583010501004001] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:06:57,489 ERROR 16400 [Job#16051972173303107583010501004001] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 159ms
+2020-11-13 00:07:00,524 ERROR 16400 [Job#16051972203313107613021179004002] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:00,524 ERROR 16400 [Job#16051972203313107613021179004002] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 192ms
+2020-11-13 00:07:03,696 ERROR 16400 [Job#16051972233323107643023401004003] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:03,697 ERROR 16400 [Job#16051972233323107643023401004003] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 365ms
+2020-11-13 00:07:06,554 ERROR 16400 [Job#16051972263323107673023964994004] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:06,554 ERROR 16400 [Job#16051972263323107673023964994004] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 222ms
+2020-11-13 00:07:09,699 ERROR 16400 [Job#16051972293323107703029429004005] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:09,701 ERROR 16400 [Job#16051972293323107703029429004005] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 369ms
+2020-11-13 00:07:12,599 ERROR 16400 [Job#16051972323333107733037547004006] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:12,600 ERROR 16400 [Job#16051972323333107733037547004006] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 267ms
+2020-11-13 00:07:15,489 ERROR 16400 [Job#16051972353343107763042657004007] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:15,490 ERROR 16400 [Job#16051972353343107763042657004007] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:07:18,533 ERROR 16400 [Job#16051972383343107793045759994008] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:18,534 ERROR 16400 [Job#16051972383343107793045759994008] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 198ms
+2020-11-13 00:07:21,518 ERROR 16400 [Job#16051972413373107823073334004009] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:21,519 ERROR 16400 [Job#16051972413373107823073334004009] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 182ms
+2020-11-13 00:07:24,832 ERROR 16400 [Job#16051972443383107853084977994010] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:24,832 ERROR 16400 [Job#16051972443383107853084977994010] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 494ms
+2020-11-13 00:07:27,483 ERROR 16400 [Job#16051972473393107883091451004011] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:27,483 ERROR 16400 [Job#16051972473393107883091451004011] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 144ms
+2020-11-13 00:07:30,800 ERROR 16400 [Job#16051972503393107913098686004012] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:30,800 ERROR 16400 [Job#16051972503393107913098686004012] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 461ms
+2020-11-13 00:07:33,506 ERROR 16400 [Job#16051972533393107943095139994013] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:33,506 ERROR 16400 [Job#16051972533393107943095139994013] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:07:36,689 ERROR 16400 [Job#16051972563403107973102811004014] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:36,689 ERROR 16400 [Job#16051972563403107973102811004014] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 349ms
+2020-11-13 00:07:39,731 ERROR 16400 [Job#16051972593403108003103235994015] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:39,731 ERROR 16400 [Job#16051972593403108003103235994015] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 391ms
+2020-11-13 00:07:42,535 ERROR 16400 [Job#16051972623413108033117418004016] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:42,535 ERROR 16400 [Job#16051972623413108033117418004016] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 194ms
+2020-11-13 00:07:45,502 ERROR 16400 [Job#16051972653413108063118608994017] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:45,503 ERROR 16400 [Job#16051972653413108063118608994017] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 162ms
+2020-11-13 00:07:48,505 ERROR 16400 [Job#16051972683423108093121938004018] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:48,505 ERROR 16400 [Job#16051972683423108093121938004018] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 163ms
+2020-11-13 00:07:51,570 ERROR 16400 [Job#16051972713423108123124814004019] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:51,571 ERROR 16400 [Job#16051972713423108123124814004019] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 229ms
+2020-11-13 00:07:54,741 ERROR 16400 [Job#16051972743433108153132612004020] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:54,742 ERROR 16400 [Job#16051972743433108153132612004020] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 399ms
+2020-11-13 00:07:57,500 ERROR 16400 [Job#16051972773433108183133260004021] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:07:57,500 ERROR 16400 [Job#16051972773433108183133260004021] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 157ms
+2020-11-13 00:08:00,651 ERROR 16400 [Job#16051972803433108213137425004022] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:00,651 ERROR 16400 [Job#16051972803433108213137425004022] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 308ms
+2020-11-13 00:08:03,507 ERROR 16400 [Job#16051972833443108243141520004023] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:03,507 ERROR 16400 [Job#16051972833443108243141520004023] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 163ms
+2020-11-13 00:08:06,612 ERROR 16400 [Job#16051972863453108273152871004024] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:06,612 ERROR 16400 [Job#16051972863453108273152871004024] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 267ms
+2020-11-13 00:08:09,551 ERROR 16400 [Job#16051972893463108303161184994025] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:09,552 ERROR 16400 [Job#16051972893463108303161184994025] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 206ms
+2020-11-13 00:08:12,577 ERROR 16400 [Job#16051972923463108333163944994026] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:12,577 ERROR 16400 [Job#16051972923463108333163944994026] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 231ms
+2020-11-13 00:08:15,579 ERROR 16400 [Job#16051972953473108363176313004027] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:15,579 ERROR 16400 [Job#16051972953473108363176313004027] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 232ms
+2020-11-13 00:08:18,545 ERROR 16400 [Job#16051972983473108393179969004028] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:18,545 ERROR 16400 [Job#16051972983473108393179969004028] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 197ms
+2020-11-13 00:08:21,582 ERROR 16400 [Job#16051973013493108423196829004029] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:21,584 ERROR 16400 [Job#16051973013493108423196829004029] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 235ms
+2020-11-13 00:08:24,651 ERROR 16400 [Job#16051973043503108453202297004030] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:24,652 ERROR 16400 [Job#16051973043503108453202297004030] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 302ms
+2020-11-13 00:08:27,628 ERROR 16400 [Job#16051973073513108483213810004031] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:27,630 ERROR 16400 [Job#16051973073513108483213810004031] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 279ms
+2020-11-13 00:08:30,543 ERROR 16400 [Job#16051973103523108513227837994032] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:30,543 ERROR 16400 [Job#16051973103523108513227837994032] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 191ms
+2020-11-13 00:08:33,612 ERROR 16400 [Job#16051973133533108543237062004033] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:33,613 ERROR 16400 [Job#16051973133533108543237062004033] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 260ms
+2020-11-13 00:08:36,629 ERROR 16400 [Job#16051973163543108573247207004034] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:36,629 ERROR 16400 [Job#16051973163543108573247207004034] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 275ms
+2020-11-13 00:08:39,598 ERROR 16400 [Job#16051973193543108603249770004035] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:39,599 ERROR 16400 [Job#16051973193543108603249770004035] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 244ms
+2020-11-13 00:08:42,534 ERROR 16400 [Job#16051973223553108633258030994036] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:42,535 ERROR 16400 [Job#16051973223553108633258030994036] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 180ms
+2020-11-13 00:08:45,513 ERROR 16400 [Job#16051973253553108663259015004037] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:45,514 ERROR 16400 [Job#16051973253553108663259015004037] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 159ms
+2020-11-13 00:08:48,506 ERROR 16400 [Job#16051973283563108693268051994038] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:48,506 ERROR 16400 [Job#16051973283563108693268051994038] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 150ms
+2020-11-13 00:08:51,500 ERROR 16400 [Job#16051973313573108723278121004039] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:51,500 ERROR 16400 [Job#16051973313573108723278121004039] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 143ms
+2020-11-13 00:08:54,544 ERROR 16400 [Job#16051973343583108753285483994040] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:54,545 ERROR 16400 [Job#16051973343583108753285483994040] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 187ms
+2020-11-13 00:08:57,548 ERROR 16400 [Job#16051973373593108783292638004041] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:08:57,548 ERROR 16400 [Job#16051973373593108783292638004041] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 189ms
+2020-11-13 00:09:00,650 ERROR 16400 [Job#16051973403603108813301638004042] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:00,651 ERROR 16400 [Job#16051973403603108813301638004042] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 291ms
+2020-11-13 00:09:03,559 ERROR 16400 [Job#16051973433603108843304269004043] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:03,559 ERROR 16400 [Job#16051973433603108843304269004043] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 199ms
+2020-11-13 00:09:06,590 ERROR 16400 [Job#16051973463603108873310573004044] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:06,590 ERROR 16400 [Job#16051973463603108873310573004044] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 229ms
+2020-11-13 00:09:09,581 ERROR 16400 [Job#16051973493623108903323745004045] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:09,582 ERROR 16400 [Job#16051973493623108903323745004045] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 220ms
+2020-11-13 00:09:12,540 ERROR 16400 [Job#16051973523633108933332650994046] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:12,541 ERROR 16400 [Job#16051973523633108933332650994046] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:09:15,523 ERROR 16400 [Job#16051973553633108963337912004047] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:15,523 ERROR 16400 [Job#16051973553633108963337912004047] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 160ms
+2020-11-13 00:09:18,592 ERROR 16400 [Job#16051973583633108993333039004048] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:18,592 ERROR 16400 [Job#16051973583633108993333039004048] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 229ms
+2020-11-13 00:09:21,576 ERROR 16400 [Job#16051973613633109023335443004049] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:21,577 ERROR 16400 [Job#16051973613633109023335443004049] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 214ms
+2020-11-13 00:09:24,676 ERROR 16400 [Job#16051973643823109053521139004050] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:24,677 ERROR 16400 [Job#16051973643823109053521139004050] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 295ms
+2020-11-13 00:09:27,624 ERROR 16400 [Job#16051973673833109083532286004051] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:27,624 ERROR 16400 [Job#16051973673833109083532286004051] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 241ms
+2020-11-13 00:09:30,548 ERROR 16400 [Job#16051973703833109113535969004052] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:30,548 ERROR 16400 [Job#16051973703833109113535969004052] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 165ms
+2020-11-13 00:09:33,593 ERROR 16400 [Job#16051973733833109143540353004053] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:33,594 ERROR 16400 [Job#16051973733833109143540353004053] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 210ms
+2020-11-13 00:09:37,080 ERROR 16400 [Job#16051973763853109173557375004054] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:37,080 ERROR 16400 [Job#16051973763853109173557375004054] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 695ms
+2020-11-13 00:09:39,607 ERROR 16400 [Job#16051973793853109203559905994055] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:39,607 ERROR 16400 [Job#16051973793853109203559905994055] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 222ms
+2020-11-13 00:09:42,573 ERROR 16400 [Job#16051973823873109233575004004056] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:42,573 ERROR 16400 [Job#16051973823873109233575004004056] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 186ms
+2020-11-13 00:09:45,924 ERROR 16400 [Job#16051973853883109263587195004057] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:45,924 ERROR 16400 [Job#16051973853883109263587195004057] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 536ms
+2020-11-13 00:09:48,512 ERROR 16400 [Job#16051973883883109293588041994058] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:48,512 ERROR 16400 [Job#16051973883883109293588041994058] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 124ms
+2020-11-13 00:09:51,645 ERROR 16400 [Job#16051973913883109323586660994059] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:51,646 ERROR 16400 [Job#16051973913883109323586660994059] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 258ms
+2020-11-13 00:09:54,627 ERROR 16400 [Job#16051973943893109353597524994060] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:54,627 ERROR 16400 [Job#16051973943893109353597524994060] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 238ms
+2020-11-13 00:09:57,533 ERROR 16400 [Job#16051973973903109383607428004061] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:09:57,534 ERROR 16400 [Job#16051973973903109383607428004061] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 144ms
+2020-11-13 00:10:00,938 ERROR 16400 [Job#16051974003913109413611919004062] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:00,938 ERROR 16400 [Job#16051974003913109413611919004062] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 547ms
+2020-11-13 00:10:03,558 ERROR 16400 [Job#16051974033923109443621630004063] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:03,558 ERROR 16400 [Job#16051974033923109443621630004063] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 166ms
+2020-11-13 00:10:06,540 ERROR 16400 [Job#16051974063923109473630408004064] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:06,541 ERROR 16400 [Job#16051974063923109473630408004064] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 148ms
+2020-11-13 00:10:09,909 ERROR 16400 [Job#16051974093933109503637487004065] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:09,909 ERROR 16400 [Job#16051974093933109503637487004065] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 516ms
+2020-11-13 00:10:12,554 ERROR 16400 [Job#16051974123933109533638485004066] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:12,555 ERROR 16400 [Job#16051974123933109533638485004066] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 162ms
+2020-11-13 00:10:15,682 ERROR 16400 [Job#16051974153933109563635964004067] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:15,682 ERROR 16400 [Job#16051974153933109563635964004067] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 289ms
+2020-11-13 00:10:18,659 ERROR 16400 [Job#16051974183933109593631541994068] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:18,659 ERROR 16400 [Job#16051974183933109593631541994068] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 266ms
+2020-11-13 00:10:21,594 ERROR 16400 [Job#16051974213943109623648478004069] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:21,594 ERROR 16400 [Job#16051974213943109623648478004069] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 200ms
+2020-11-13 00:10:24,670 ERROR 16400 [Job#16051974243943109653648823994070] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:24,671 ERROR 16400 [Job#16051974243943109653648823994070] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 277ms
+2020-11-13 00:10:27,564 ERROR 16400 [Job#16051974273943109683648813994071] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:27,565 ERROR 16400 [Job#16051974273943109683648813994071] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 171ms
+2020-11-13 00:10:30,647 ERROR 16400 [Job#16051974303943109713646142994072] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:30,648 ERROR 16400 [Job#16051974303943109713646142994072] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 254ms
+2020-11-13 00:10:33,653 ERROR 16400 [Job#16051974333953109743655144004073] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:33,653 ERROR 16400 [Job#16051974333953109743655144004073] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 258ms
+2020-11-13 00:10:36,613 ERROR 16400 [Job#16051974363953109773660101004074] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:36,614 ERROR 16400 [Job#16051974363953109773660101004074] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 219ms
+2020-11-13 00:10:39,735 ERROR 16400 [Job#16051974393973109803672915004075] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:39,735 ERROR 16400 [Job#16051974393973109803672915004075] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 338ms
+2020-11-13 00:10:42,632 ERROR 16400 [Job#16051974423983109833683105004076] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:42,633 ERROR 16400 [Job#16051974423983109833683105004076] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 235ms
+2020-11-13 00:10:45,636 ERROR 16400 [Job#16051974453983109863686841004077] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:45,637 ERROR 16400 [Job#16051974453983109863686841004077] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 239ms
+2020-11-13 00:10:48,751 ERROR 16400 [Job#16051974483983109893683825994078] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:48,752 ERROR 16400 [Job#16051974483983109893683825994078] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 354ms
+2020-11-13 00:10:51,732 ERROR 16400 [Job#16051974513983109923686573994079] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:51,733 ERROR 16400 [Job#16051974513983109923686573994079] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 335ms
+2020-11-13 00:10:54,645 ERROR 16400 [Job#16051974543993109953693402004080] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:54,646 ERROR 16400 [Job#16051974543993109953693402004080] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 246ms
+2020-11-13 00:10:58,091 ERROR 16400 [Job#16051974574003109983703182004081] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:10:58,091 ERROR 16400 [Job#16051974574003109983703182004081] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 691ms
+2020-11-13 00:11:00,579 ERROR 16400 [Job#16051974604013110013714200004082] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:00,580 ERROR 16400 [Job#16051974604013110013714200004082] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 179ms
+2020-11-13 00:11:03,608 ERROR 16400 [Job#16051974634013110043713617004083] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:03,608 ERROR 16400 [Job#16051974634013110043713617004083] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 207ms
+2020-11-13 00:11:06,755 ERROR 16400 [Job#16051974664013110073721093004084] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:06,756 ERROR 16400 [Job#16051974664013110073721093004084] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 355ms
+2020-11-13 00:11:09,679 ERROR 16400 [Job#16051974694023110103729134004085] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:09,681 ERROR 16400 [Job#16051974694023110103729134004085] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 279ms
+2020-11-13 00:11:12,540 ERROR 16400 [Job#16051974724033110133739138004086] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:12,542 ERROR 16400 [Job#16051974724033110133739138004086] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 139ms
+2020-11-13 00:11:15,568 ERROR 16400 [Job#16051974754043110163745013004087] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:15,569 ERROR 16400 [Job#16051974754043110163745013004087] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 165ms
+2020-11-13 00:11:18,557 ERROR 16400 [Job#16051974784043110193747345994088] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:18,558 ERROR 16400 [Job#16051974784043110193747345994088] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 154ms
+2020-11-13 00:11:21,570 ERROR 16400 [Job#16051974814053110223755216004089] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:21,572 ERROR 16400 [Job#16051974814053110223755216004089] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:11:24,691 ERROR 16400 [Job#16051974844053110253757644004090] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:24,693 ERROR 16400 [Job#16051974844053110253757644004090] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 288ms
+2020-11-13 00:11:27,636 ERROR 16400 [Job#16051974874053110283755327004091] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:27,637 ERROR 16400 [Job#16051974874053110283755327004091] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 232ms
+2020-11-13 00:11:30,822 ERROR 16400 [Job#16051974904053110313754760994092] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:30,822 ERROR 16400 [Job#16051974904053110313754760994092] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 417ms
+2020-11-13 00:11:33,662 ERROR 16400 [Job#16051974934053110343758806004093] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:33,662 ERROR 16400 [Job#16051974934053110343758806004093] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 257ms
+2020-11-13 00:11:36,682 ERROR 16400 [Job#16051974964053110373752776994094] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:36,682 ERROR 16400 [Job#16051974964053110373752776994094] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 277ms
+2020-11-13 00:11:39,580 ERROR 16400 [Job#16051974994063110403764691004095] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:39,581 ERROR 16400 [Job#16051974994063110403764691004095] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 175ms
+2020-11-13 00:11:42,708 ERROR 16400 [Job#16051975024073110433771134004096] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:42,709 ERROR 16400 [Job#16051975024073110433771134004096] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 302ms
+2020-11-13 00:11:45,654 ERROR 16400 [Job#16051975054073110463779422004097] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:45,654 ERROR 16400 [Job#16051975054073110463779422004097] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 247ms
+2020-11-13 00:11:48,564 ERROR 16400 [Job#16051975084083110493783994004098] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:48,564 ERROR 16400 [Job#16051975084083110493783994004098] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:11:51,683 ERROR 16400 [Job#16051975114083110523784247004099] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:51,683 ERROR 16400 [Job#16051975114083110523784247004099] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 275ms
+2020-11-13 00:11:54,555 ERROR 16400 [Job#16051975144083110553788687004100] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:54,556 ERROR 16400 [Job#16051975144083110553788687004100] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 148ms
+2020-11-13 00:11:57,614 ERROR 16400 [Job#16051975174083110583790164994101] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:11:57,615 ERROR 16400 [Job#16051975174083110583790164994101] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 207ms
+2020-11-13 00:12:00,680 ERROR 16400 [Job#16051975204093110613794730004102] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:00,680 ERROR 16400 [Job#16051975204093110613794730004102] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 271ms
+2020-11-13 00:12:03,618 ERROR 16400 [Job#16051975234103110643801821004103] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:03,618 ERROR 16400 [Job#16051975234103110643801821004103] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 208ms
+2020-11-13 00:12:06,562 ERROR 16400 [Job#16051975264113110673814834004104] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:06,563 ERROR 16400 [Job#16051975264113110673814834004104] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 152ms
+2020-11-13 00:12:09,641 ERROR 16400 [Job#16051975294113110703814845994105] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:09,641 ERROR 16400 [Job#16051975294113110703814845994105] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 230ms
+2020-11-13 00:12:12,658 ERROR 16400 [Job#16051975324113110733814808004106] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:12,659 ERROR 16400 [Job#16051975324113110733814808004106] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 247ms
+2020-11-13 00:12:15,664 ERROR 16400 [Job#16051975354113110763815137004107] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:15,665 ERROR 16400 [Job#16051975354113110763815137004107] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 254ms
+2020-11-13 00:12:18,638 ERROR 16400 [Job#16051975384123110793822664004108] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:18,638 ERROR 16400 [Job#16051975384123110793822664004108] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 226ms
+2020-11-13 00:12:21,638 ERROR 16400 [Job#16051975414123110823822256004109] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:21,640 ERROR 16400 [Job#16051975414123110823822256004109] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 228ms
+2020-11-13 00:12:24,604 ERROR 16400 [Job#16051975444123110853828724004110] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:24,605 ERROR 16400 [Job#16051975444123110853828724004110] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 193ms
+2020-11-13 00:12:27,587 ERROR 16400 [Job#16051975474123110883826792004111] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:27,588 ERROR 16400 [Job#16051975474123110883826792004111] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 176ms
+2020-11-13 00:12:30,682 ERROR 16400 [Job#16051975504123110913823147004112] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:30,683 ERROR 16400 [Job#16051975504123110913823147004112] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 271ms
+2020-11-13 00:12:33,629 ERROR 16400 [Job#16051975534123110943823319004113] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:33,629 ERROR 16400 [Job#16051975534123110943823319004113] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 217ms
+2020-11-13 00:12:36,586 ERROR 16400 [Job#16051975564123110973829843004114] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:36,587 ERROR 16400 [Job#16051975564123110973829843004114] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 175ms
+2020-11-13 00:12:39,862 ERROR 16400 [Job#16051975594143111003843056994115] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:39,863 ERROR 16400 [Job#16051975594143111003843056994115] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 449ms
+2020-11-13 00:12:42,567 ERROR 16400 [Job#16051975624143111033843594994116] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:42,568 ERROR 16400 [Job#16051975624143111033843594994116] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 154ms
+2020-11-13 00:12:45,566 ERROR 16400 [Job#16051975654143111063843562004117] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:45,566 ERROR 16400 [Job#16051975654143111063843562004117] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 152ms
+2020-11-13 00:12:48,557 ERROR 16400 [Job#16051975684143111093842983994118] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:48,558 ERROR 16400 [Job#16051975684143111093842983994118] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 144ms
+2020-11-13 00:12:51,849 ERROR 16400 [Job#16051975714153111123853193004119] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:51,850 ERROR 16400 [Job#16051975714153111123853193004119] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 435ms
+2020-11-13 00:12:54,655 ERROR 16400 [Job#16051975744153111153853189004120] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:54,655 ERROR 16400 [Job#16051975744153111153853189004120] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 240ms
+2020-11-13 00:12:57,582 ERROR 16400 [Job#16051975774163111183863192004121] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:12:57,583 ERROR 16400 [Job#16051975774163111183863192004121] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:13:00,602 ERROR 16400 [Job#16051975804173111213875569004122] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:00,602 ERROR 16400 [Job#16051975804173111213875569004122] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 185ms
+2020-11-13 00:13:03,606 ERROR 16400 [Job#16051975834183111243883925004123] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:03,606 ERROR 16400 [Job#16051975834183111243883925004123] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 188ms
+2020-11-13 00:13:06,603 ERROR 16400 [Job#16051975864193111273895595004124] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:06,604 ERROR 16400 [Job#16051975864193111273895595004124] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 185ms
+2020-11-13 00:13:09,707 ERROR 16400 [Job#16051975894193111303896380004125] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:09,707 ERROR 16400 [Job#16051975894193111303896380004125] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 288ms
+2020-11-13 00:13:12,756 ERROR 16400 [Job#16051975924193111333897981004126] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:12,757 ERROR 16400 [Job#16051975924193111333897981004126] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 338ms
+2020-11-13 00:13:15,705 ERROR 16400 [Job#16051975954203111363905473004127] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:15,705 ERROR 16400 [Job#16051975954203111363905473004127] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 285ms
+2020-11-13 00:13:18,593 ERROR 16400 [Job#16051975984203111393905762004128] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:18,593 ERROR 16400 [Job#16051975984203111393905762004128] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 173ms
+2020-11-13 00:13:21,574 ERROR 16400 [Job#16051976014203111423906043994129] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:21,574 ERROR 16400 [Job#16051976014203111423906043994129] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 154ms
+2020-11-13 00:13:24,646 ERROR 16400 [Job#16051976044213111453911691004130] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:24,647 ERROR 16400 [Job#16051976044213111453911691004130] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 226ms
+2020-11-13 00:13:27,574 ERROR 16400 [Job#16051976074223111483926120004131] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:27,575 ERROR 16400 [Job#16051976074223111483926120004131] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 153ms
+2020-11-13 00:13:30,632 ERROR 16400 [Job#16051976104223111513930945004132] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:30,633 ERROR 16400 [Job#16051976104223111513930945004132] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 210ms
+2020-11-13 00:13:33,755 ERROR 16400 [Job#16051976134243111543942158004133] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:33,756 ERROR 16400 [Job#16051976134243111543942158004133] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 332ms
+2020-11-13 00:13:36,931 ERROR 16400 [Job#16051976164243111573942788004134] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:36,931 ERROR 16400 [Job#16051976164243111573942788004134] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 507ms
+2020-11-13 00:13:39,671 ERROR 16400 [Job#16051976194253111603953780004135] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:39,672 ERROR 16400 [Job#16051976194253111603953780004135] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 247ms
+2020-11-13 00:13:42,579 ERROR 16400 [Job#16051976224253111633958121004136] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:42,580 ERROR 16400 [Job#16051976224253111633958121004136] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 155ms
+2020-11-13 00:13:45,574 ERROR 16400 [Job#16051976254263111663966716004137] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:45,575 ERROR 16400 [Job#16051976254263111663966716004137] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 149ms
+2020-11-13 00:13:48,617 ERROR 16400 [Job#16051976284263111693969748004138] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:48,618 ERROR 16400 [Job#16051976284263111693969748004138] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 192ms
+2020-11-13 00:13:51,571 ERROR 16400 [Job#16051976314273111723980305004139] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:51,572 ERROR 16400 [Job#16051976314273111723980305004139] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 144ms
+2020-11-13 00:13:54,644 ERROR 16400 [Job#16051976344283111753991370004140] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:54,645 ERROR 16400 [Job#16051976344283111753991370004140] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 216ms
+2020-11-13 00:13:57,607 ERROR 16400 [Job#16051976374293111784000807004141] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:13:57,608 ERROR 16400 [Job#16051976374293111784000807004141] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 178ms
+2020-11-13 00:14:00,604 ERROR 16400 [Job#16051976404303111814010632004142] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:00,605 ERROR 16400 [Job#16051976404303111814010632004142] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 174ms
+2020-11-13 00:14:03,584 ERROR 16400 [Job#16051976434323111844025003004143] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:03,585 ERROR 16400 [Job#16051976434323111844025003004143] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 153ms
+2020-11-13 00:14:06,588 ERROR 16400 [Job#16051976464333111874039333004144] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:06,589 ERROR 16400 [Job#16051976464333111874039333004144] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:14:09,705 ERROR 16400 [Job#16051976494343111904049251004145] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:09,706 ERROR 16400 [Job#16051976494343111904049251004145] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 272ms
+2020-11-13 00:14:12,630 ERROR 16400 [Job#16051976524363111934061716004146] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:12,630 ERROR 16400 [Job#16051976524363111934061716004146] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 194ms
+2020-11-13 00:14:15,602 ERROR 16400 [Job#16051976554363111964069045004147] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:15,602 ERROR 16400 [Job#16051976554363111964069045004147] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 166ms
+2020-11-13 00:14:18,673 ERROR 16400 [Job#16051976584373111994071797004148] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:18,673 ERROR 16400 [Job#16051976584373111994071797004148] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 236ms
+2020-11-13 00:14:21,593 ERROR 16400 [Job#16051976614373112024078759004149] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:21,593 ERROR 16400 [Job#16051976614373112024078759004149] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 156ms
+2020-11-13 00:14:24,618 ERROR 16400 [Job#16051976644513112054212697004150] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:24,618 ERROR 16400 [Job#16051976644513112054212697004150] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 167ms
+2020-11-13 00:14:27,857 ERROR 16400 [Job#16051976674523112084227066004151] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:27,858 ERROR 16400 [Job#16051976674523112084227066004151] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 406ms
+2020-11-13 00:14:30,829 ERROR 16400 [Job#16051976704523112114225878004152] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:30,830 ERROR 16400 [Job#16051976704523112114225878004152] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 378ms
+2020-11-13 00:14:33,642 ERROR 16400 [Job#16051976734533112144237002004153] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:33,642 ERROR 16400 [Job#16051976734533112144237002004153] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 189ms
+2020-11-13 00:14:36,581 ERROR 16400 [Job#16051976764533112174237278994154] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:36,581 ERROR 16400 [Job#16051976764533112174237278994154] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 128ms
+2020-11-13 00:14:39,632 ERROR 16400 [Job#16051976794533112204237636004155] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:39,632 ERROR 16400 [Job#16051976794533112204237636004155] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 179ms
+2020-11-13 00:14:42,659 ERROR 16400 [Job#16051976824553112234254462004156] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:42,660 ERROR 16400 [Job#16051976824553112234254462004156] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 205ms
+2020-11-13 00:14:45,698 ERROR 16400 [Job#16051976854553112264257085004157] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:45,700 ERROR 16400 [Job#16051976854553112264257085004157] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 245ms
+2020-11-13 00:14:48,831 ERROR 16400 [Job#16051976884563112294267472994158] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:48,832 ERROR 16400 [Job#16051976884563112294267472994158] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 376ms
+2020-11-13 00:14:51,639 ERROR 16400 [Job#16051976914573112324277718994159] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:51,640 ERROR 16400 [Job#16051976914573112324277718994159] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 183ms
+2020-11-13 00:14:54,575 ERROR 16400 [Job#16051976944583112354287178004160] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:54,576 ERROR 16400 [Job#16051976944583112354287178004160] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 118ms
+2020-11-13 00:14:57,752 ERROR 16400 [Job#16051976974583112384290128004161] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:14:57,753 ERROR 16400 [Job#16051976974583112384290128004161] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 295ms
+2020-11-13 00:15:00,724 ERROR 16400 [Job#16051977004593112414297173004162] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:00,724 ERROR 16400 [Job#16051977004593112414297173004162] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 265ms
+2020-11-13 00:15:03,757 ERROR 16400 [Job#16051977034593112444300140004163] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:03,758 ERROR 16400 [Job#16051977034593112444300140004163] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 299ms
+2020-11-13 00:15:06,617 ERROR 16400 [Job#16051977064613112474317081994164] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:06,618 ERROR 16400 [Job#16051977064613112474317081994164] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 157ms
+2020-11-13 00:15:09,700 ERROR 16400 [Job#16051977094613112504317148004165] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:09,701 ERROR 16400 [Job#16051977094613112504317148004165] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 238ms
+2020-11-13 00:15:12,590 ERROR 16400 [Job#16051977124613112534317027004166] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:12,590 ERROR 16400 [Job#16051977124613112534317027004166] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 129ms
+2020-11-13 00:15:15,636 ERROR 16400 [Job#16051977154613112564317139004167] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:15,637 ERROR 16400 [Job#16051977154613112564317139004167] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 176ms
+2020-11-13 00:15:18,697 ERROR 16400 [Job#16051977184623112594327033004168] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:18,698 ERROR 16400 [Job#16051977184623112594327033004168] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 236ms
+2020-11-13 00:15:21,796 ERROR 16400 [Job#16051977214633112624337861004169] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:21,797 ERROR 16400 [Job#16051977214633112624337861004169] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 334ms
+2020-11-13 00:15:24,609 ERROR 16400 [Job#16051977244633112654340167994170] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:24,610 ERROR 16400 [Job#16051977244633112654340167994170] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 147ms
+2020-11-13 00:15:27,637 ERROR 16400 [Job#16051977274653112684357886004171] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:27,637 ERROR 16400 [Job#16051977274653112684357886004171] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 172ms
+2020-11-13 00:15:30,797 ERROR 16400 [Job#16051977304653112714357890004172] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:30,798 ERROR 16400 [Job#16051977304653112714357890004172] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 333ms
+2020-11-13 00:15:33,639 ERROR 16400 [Job#16051977334653112744356933004173] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:33,639 ERROR 16400 [Job#16051977334653112744356933004173] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 174ms
+2020-11-13 00:15:36,645 ERROR 16400 [Job#16051977364653112774360375004174] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:36,646 ERROR 16400 [Job#16051977364653112774360375004174] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 181ms
+2020-11-13 00:15:39,730 ERROR 16400 [Job#16051977394673112804377781994175] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:39,731 ERROR 16400 [Job#16051977394673112804377781994175] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 264ms
+2020-11-13 00:15:42,661 ERROR 16400 [Job#16051977424673112834380322004176] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:42,661 ERROR 16400 [Job#16051977424673112834380322004176] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 194ms
+2020-11-13 00:15:45,678 ERROR 16400 [Job#16051977454693112864400182994177] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:45,679 ERROR 16400 [Job#16051977454693112864400182994177] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 210ms
+2020-11-13 00:15:48,592 ERROR 16400 [Job#16051977484713112894418403004178] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:48,592 ERROR 16400 [Job#16051977484713112894418403004178] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 121ms
+2020-11-13 00:15:51,650 ERROR 16400 [Job#16051977514713112924417422004179] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:51,651 ERROR 16400 [Job#16051977514713112924417422004179] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 180ms
+2020-11-13 00:15:54,667 ERROR 16400 [Job#16051977544713112954420110004180] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:54,667 ERROR 16400 [Job#16051977544713112954420110004180] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 195ms
+2020-11-13 00:15:57,679 ERROR 16400 [Job#16051977574733112984436886004181] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 00:15:57,679 ERROR 16400 [Job#16051977574733112984436886004181] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 206ms
+2020-11-13 01:24:39,738 ERROR 16400 [Job#16052018776813154186520547005554] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 01:24:39,739 ERROR 16400 [Job#16052018776813154186520547005554] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 2058ms
+2020-11-13 03:39:35,559 ERROR 16400 [Job#16052099735033235144739154008252] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:28:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-11-13 03:39:35,559 ERROR 16400 [Job#16052099735033235144739154008252] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 2056ms
+2020-12-07 16:08:49,771 ERROR 18508 [-/undefined/-/8ms GET /public/result/good_luck.mp3] nodejs.ECONNABORTEDError: write ECONNABORTED
+    at afterWriteDispatched (internal/stream_base_commons.js:154:25)
+    at writeGeneric (internal/stream_base_commons.js:145:3)
+    at Socket._writeGeneric (net.js:786:11)
+    at Socket._write (net.js:798:8)
+    at doWrite (_stream_writable.js:403:12)
+    at clearBuffer (_stream_writable.js:542:7)
+    at Socket.Writable.uncork (_stream_writable.js:338:7)
+    at ServerResponse.OutgoingMessage.uncork (_http_outgoing.js:244:17)
+    at connectionCorkNT (_http_outgoing.js:690:8)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+headerSent: true
+name: "ECONNABORTEDError"
+pid: 18508
+hostname: ����
+
+2020-12-07 16:32:42,674 ERROR 13240 [-/::1/-/623ms GET /status] nodejs.Template render error: (D:\fogProject\egg-project\app\view\result\resultShow.tpl) [Line 23, Column 7]
+  unexpected token: <
+  unexpected token: <
+    at Object._prettifyError (D:\fogProject\egg-project\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:536:21)
+    at D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:325:11)
+    at D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:337:9
+    at next (D:\fogProject\egg-project\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (D:\fogProject\egg-project\node_modules\nunjucks\src\lib.js:332:3)
+    at NunjucksEnvironment.getTemplate (D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (D:\fogProject\egg-project\node_modules\nunjucks\src\environment.js:358:10)
+name: "Template render error"
+pid: 13240
+hostname: ����
+
+2020-12-07 16:39:51,058 ERROR 16808 [Job#16073303905242470549544830035] D:\fogProject\egg-project\app\schedule\first.js execute error. Error [ResponseError]: socket hang up, GET https://m.weibo.cn/api/container/getIndex -1 (connected: true, keepalive socket: true, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":37,"freeSockets":{"m.weibo.cn:443::::::::::::::::::":1},"sockets":{"m.weibo.cn:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 20, socketHandledResponses: 19)
+headers: {}
+    at connResetException (internal/errors.js:610:14)
+    at TLSSocket.socketOnEnd (_http_client.js:453:23)
+    at TLSSocket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  data: undefined,
+  path: '/api/container/getIndex?containerid=100808cbec86fbcc1c453633f835c10c9db0ee_-_live&luicode=10000011&lfid=2314751736988591&type=uid&value=1736988591',
+  status: -1,
+  headers: {},
+  res: {
+    status: -1,
+    statusCode: -1,
+    statusMessage: null,
+    headers: {},
+    size: 0,
+    aborted: false,
+    rt: 530,
+    keepAliveSocket: true,
+    data: undefined,
+    requestUrls: [ 'https://m.weibo.cn/api/container/getIndex' ],
+    timing: null,
+    remoteAddress: '180.149.153.187',
+    remotePort: 443,
+    socketHandledRequests: 20,
+    socketHandledResponses: 19
+  }
+}
+2020-12-07 16:39:51,060 ERROR 16808 [Job#16073303905242470549544830035] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 535ms
+2020-12-07 17:53:10,445 ERROR 9172 [Job#1607334785441291004127098004] D:\fogProject\egg-project\app\schedule\first.js execute error. Error [ResponseTimeoutError]: Response timeout for 5000ms, GET https://m.weibo.cn/api/container/getIndex -1 (connected: true, keepalive socket: true, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":4,"freeSockets":{},"sockets":{"m.weibo.cn:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 5, socketHandledResponses: 4)
+headers: {}
+    at Timeout._onTimeout (D:\fogProject\egg-project\node_modules\urllib\lib\urllib.js:940:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7) {
+  requestId: 5,
+  data: undefined,
+  path: '/api/container/getIndex?containerid=100808cbec86fbcc1c453633f835c10c9db0ee_-_live&luicode=10000011&lfid=2314751736988591&type=uid&value=1736988591',
+  status: -1,
+  headers: {},
+  res: {
+    status: -1,
+    statusCode: -1,
+    statusMessage: null,
+    headers: {},
+    size: 0,
+    aborted: false,
+    rt: 5003,
+    keepAliveSocket: true,
+    data: undefined,
+    requestUrls: [ 'https://m.weibo.cn/api/container/getIndex' ],
+    timing: null,
+    remoteAddress: '49.7.40.133',
+    remotePort: 443,
+    socketHandledRequests: 5,
+    socketHandledResponses: 4
+  }
+}
+2020-12-07 17:53:10,447 ERROR 9172 [Job#1607334785441291004127098004] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 5006ms
+2020-12-07 18:01:10,570 ERROR 17868 [Job#160733526996229584932828200111] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:29:41)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-07 18:01:10,571 ERROR 17868 [Job#160733526996229584932828200111] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 608ms
+2020-12-08 15:13:49,309 ERROR 2652 [Job#160741162893310594390423540031] D:\fogProject\egg-project\app\schedule\first.js execute error. ReferenceError: des is not defined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:17:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-08 15:13:49,310 ERROR 2652 [Job#160741162893310594390423540031] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 377ms
+2020-12-08 15:13:57,532 ERROR 20284 [Job#16074116371681059521388090001] D:\fogProject\egg-project\app\schedule\first.js execute error. ReferenceError: des is not defined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:17:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-08 15:13:57,533 ERROR 20284 [Job#16074116371681059521388090001] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 365ms
+2020-12-08 15:14:00,519 ERROR 20284 [Job#16074116401681059551392592992] D:\fogProject\egg-project\app\schedule\first.js execute error. ReferenceError: des is not defined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:17:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-08 15:14:00,520 ERROR 20284 [Job#16074116401681059551392592992] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 352ms
+2020-12-08 15:14:03,510 ERROR 20284 [Job#16074116431691059581395890003] D:\fogProject\egg-project\app\schedule\first.js execute error. ReferenceError: des is not defined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:17:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-08 15:14:03,511 ERROR 20284 [Job#16074116431691059581395890003] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 342ms

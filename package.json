@@ -1,0 +1,21 @@
+{
+  "name": "egg-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.26.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "mplayer": "^2.1.0",
+    "node-cmd": "^3.0.0",
+    "play": "^0.5.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.14.1"
+  }
+}
