@@ -23,7 +23,7 @@ class SecondAPI extends Subscription {
 
   // subscribe 是真正定时任务执行时被运行的函数
   async subscribe() {
-    if (this.app.info_desc && this.app.info_desc.indexOf("微博在线了") === -1) {
+    if (this.app.info_desc && this.app.info_desc.indexOf("微博在线了") > -1) {
       // 说明用户在线，提醒。（避免重复触发）
       console.log("==========上线了==========");
       if (!flag && !workerProcess) {
