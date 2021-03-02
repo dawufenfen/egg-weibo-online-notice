@@ -26,3 +26,33 @@
 2020-12-08 16:18:35,887 INFO 8836 [egg:core] dump config after load, 3ms
 2020-12-08 16:18:35,895 INFO 8836 [egg-watcher:application] watcher start success
 2020-12-08 16:18:35,900 INFO 8836 [egg:core] dump config after ready, 3ms
+2020-12-09 10:16:14,922 INFO 1612 [egg:logger] init all loggers with options: {"dir":"D:\\fogProject\\egg-project\\logs\\egg-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-project-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-09 10:16:14,944 INFO 1612 [egg-multipart] stream mode enable
+2020-12-09 10:16:14,989 INFO 1612 [egg-static] starting static serve /public/ -> D:\fogProject\egg-project\app\public
+2020-12-09 10:16:14,990 INFO 1612 [egg-security] use csrf middleware
+2020-12-09 10:16:14,991 INFO 1612 [egg-security] use methodnoallow middleware
+2020-12-09 10:16:14,991 INFO 1612 [egg-security] use noopen middleware
+2020-12-09 10:16:14,992 INFO 1612 [egg-security] use nosniff middleware
+2020-12-09 10:16:14,992 INFO 1612 [egg-security] use xssProtection middleware
+2020-12-09 10:16:14,993 INFO 1612 [egg-security] use xframe middleware
+2020-12-09 10:16:14,993 INFO 1612 [egg-security] use dta middleware
+2020-12-09 10:16:14,993 INFO 1612 [egg-security] compose 7 middlewares into one security middleware
+2020-12-09 10:16:14,999 INFO 1612 [egg:core] dump config after load, 3ms
+2020-12-09 10:16:15,006 INFO 1612 [egg-watcher:application] watcher start success
+2020-12-09 10:16:15,011 INFO 1612 [egg:core] dump config after ready, 4ms
+2020-12-09 14:38:54,862 INFO 1612 [egg-view-nunjucks] loading templates from ["D:\\fogProject\\egg-project\\app\\view"]
+2020-12-09 14:49:47,781 INFO 20812 [egg:logger] init all loggers with options: {"dir":"D:\\fogProject\\egg-project\\logs\\egg-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-project-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-09 14:49:47,802 INFO 20812 [egg-multipart] stream mode enable
+2020-12-09 14:49:47,849 INFO 20812 [egg-static] starting static serve /public/ -> D:\fogProject\egg-project\app\public
+2020-12-09 14:49:47,850 INFO 20812 [egg-security] use csrf middleware
+2020-12-09 14:49:47,851 INFO 20812 [egg-security] use methodnoallow middleware
+2020-12-09 14:49:47,851 INFO 20812 [egg-security] use noopen middleware
+2020-12-09 14:49:47,852 INFO 20812 [egg-security] use nosniff middleware
+2020-12-09 14:49:47,852 INFO 20812 [egg-security] use xssProtection middleware
+2020-12-09 14:49:47,853 INFO 20812 [egg-security] use xframe middleware
+2020-12-09 14:49:47,853 INFO 20812 [egg-security] use dta middleware
+2020-12-09 14:49:47,853 INFO 20812 [egg-security] compose 7 middlewares into one security middleware
+2020-12-09 14:49:47,860 INFO 20812 [egg:core] dump config after load, 4ms
+2020-12-09 14:49:47,866 INFO 20812 [egg-watcher:application] watcher start success
+2020-12-09 14:49:47,871 INFO 20812 [egg:core] dump config after ready, 4ms
+2020-12-09 17:13:59,680 INFO 20812 [egg-view-nunjucks] loading templates from ["D:\\fogProject\\egg-project\\app\\view"]

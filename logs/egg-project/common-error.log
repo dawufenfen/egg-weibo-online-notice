@@ -1,0 +1,59 @@
+2020-12-09 16:18:40,139 ERROR 20812 [Job#1607501920096196235667516991772] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:18:40,140 ERROR 20812 [Job#1607501920096196235667516991772] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 44ms
+2020-12-09 16:19:01,222 ERROR 20812 [Job#16075019411761962561466722001779] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:19:01,222 ERROR 20812 [Job#16075019411761962561466722001779] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 46ms
+2020-12-09 16:20:31,318 ERROR 20812 [Job#16075020312761963462468849001809] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:20:31,318 ERROR 20812 [Job#16075020312761963462468849001809] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 42ms
+2020-12-09 16:22:31,351 ERROR 20812 [Job#16075021513041964662753057001849] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:22:31,352 ERROR 20812 [Job#16075021513041964662753057001849] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 47ms
+2020-12-09 16:23:01,348 ERROR 20812 [Job#16075021813091964962799012001859] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:23:01,348 ERROR 20812 [Job#16075021813091964962799012001859] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 39ms
+2020-12-09 16:23:07,349 ERROR 20812 [Job#16075021873091965022803167001861] D:\fogProject\egg-project\app\schedule\first.js execute error. TypeError: Cannot read property 'card_group' of undefined
+    at FirstAPI.subscribe (D:\fogProject\egg-project\app\schedule\first.js:16:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-12-09 16:23:07,349 ERROR 20812 [Job#16075021873091965022803167001861] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 39ms
+2020-12-09 16:24:06,320 ERROR 20812 [Job#16075022413171965562882784001879] D:\fogProject\egg-project\app\schedule\first.js execute error. Error [ResponseTimeoutError]: Response timeout for 5000ms, GET https://m.weibo.cn/api/container/getIndex -1 (connected: true, keepalive socket: true, agent status: {"createSocketCount":20,"createSocketErrorCount":0,"closeSocketCount":19,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":1861,"freeSockets":{"m.weibo.cn:443::::::::::::::::::":1},"sockets":{},"requests":{}}, socketHandledRequests: 79, socketHandledResponses: 78)
+headers: {}
+    at Timeout._onTimeout (D:\fogProject\egg-project\node_modules\urllib\lib\urllib.js:940:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7) {
+  requestId: 1879,
+  data: undefined,
+  path: '/api/container/getIndex?containerid=100808cbec86fbcc1c453633f835c10c9db0ee_-_live&luicode=10000011&lfid=2314751736988591&type=uid&value=1736988591',
+  status: -1,
+  headers: {},
+  res: {
+    status: -1,
+    statusCode: -1,
+    statusMessage: null,
+    headers: {},
+    size: 0,
+    aborted: false,
+    rt: 5001,
+    keepAliveSocket: true,
+    data: undefined,
+    requestUrls: [ 'https://m.weibo.cn/api/container/getIndex' ],
+    timing: null,
+    remoteAddress: '180.149.153.187',
+    remotePort: 443,
+    socketHandledRequests: 79,
+    socketHandledResponses: 78
+  }
+}
+2020-12-09 16:24:06,323 ERROR 20812 [Job#16075022413171965562882784001879] D:\fogProject\egg-project\app\schedule\first.js execute failed, used 5005ms
